@@ -1,15 +1,15 @@
-# QA Automation Portfolio
+# SoftUni Courses
 
-This is my first QA Automation project using Playwright.
+This repository contains my exercises and practice work from SoftUni programming courses.
 
-## Technologies used:
-- Playwright
-- JavaScript (Node.js)
-- Git & GitHub
-
-## What this project includes:
-- UI automated tests (example.spec.js)
-- First test: Open Google and verify title
+## Topics covered:
+- JavaScript Fundamentals
+- C# Basics
+- HTML & CSS
+- QA Basics exercises
 
 ## Purpose:
-Learning QA Automation step by step (SoftUni).
+To practice programming concepts step by step and improve my development skills during SoftUni training.
+
+## Notes:
+This is a learning repository and contains exercises, not production projects.
